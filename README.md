@@ -67,7 +67,7 @@ You will find two final files in the output folder: a translation file and a bio
 - optional features which require your request: character lists below every chapter title；blocker concepts explanations
   
 # Requirements
-- Claude Code CLI
+- Claude Code CLI or Claude code + VS Code（A graphical interface suitable for beginners）
 - For Ebook generation: Calibre is recommended.
 
 # Credits
